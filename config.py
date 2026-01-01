@@ -1,0 +1,6 @@
+
+MONGO_URI = ""
+MONGO_DB = "pastebin_db"
+MONGO_COLLECTION = "pastes"
+PASTE_ID_LENGTH = 6
+MAX_PASTE_SIZE = 1_000_000  # 1MB
